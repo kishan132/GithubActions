@@ -1,0 +1,32 @@
+# Built application files
+*.apk
+*.aab
+*.aar
+
+# Gradle build outputs and caches
+.gradle/
+/build/
+/*/build/
+
+# Kotlin & IDE caches
+.kotlin/
+.idea/
+*.iml
+
+# Local configuration files
+local.properties
+
+# External native build output
+.externalNativeBuild
+.cxx/
+
+# Log Files
+*.log
+
+# Keystore files
+*.jks
+*.keystore
+
+# OS generated files
+.DS_Store
+Thumbs.db
